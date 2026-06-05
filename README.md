@@ -1,4 +1,4 @@
-![DIAGRAMA DE FLUJO](<img width="1188" height="1811" alt="dfd drawio" src="https://github.com/user-attachments/assets/f944be4c-a369-448b-adc2-5b3ef1e15dda" />)
+![DIAGRAMA DE FLUJO](https://github.com/user-attachments/assets/f944be4c-a369-448b-adc2-5b3ef1e15dda)
 
 COMO EJECUTAR EL PROGRAMA
 

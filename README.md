@@ -8,7 +8,8 @@ Tener instalado python y la extension python en VSCode
 Pasos a seguir
 1. Abrir la carpeta que contiene el archivo pract.py en VSCode
 2. Abrir el archivo pract.py.
-3. haz click en el boton superior de la derecha de run python file (con forma triangular):
+3. haz click en el boton superior de la derecha de run python file (con forma triangular)
+
 PARA USAR EL PROGRAMA
 Elige una opcion del menu (1 al 4)
 El programa te mostrar el saldo despues de comprar

@@ -11,6 +11,6 @@ Pasos a seguir
 3. haz click en el boton superior de la derecha de run python file (con forma triangular)
 
 PARA USAR EL PROGRAMA
-Elige una opcion del menu (1 al 4)
-El programa te mostrar el saldo despues de comprar
-Puedes seguir comprando hasta que tu saldo sea menor a Bs 1.50, o elijas salir con el numero 4
+- Elige una opcion del menu (1 al 4)
+- El programa te mostrar el saldo despues de comprar
+- Puedes seguir comprando hasta que tu saldo sea menor a Bs 1.50, o elijas salir con el numero 4
